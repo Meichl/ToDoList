@@ -1,0 +1,10 @@
+br\com\javaproject\todolist\errors\ExceptionHandlerController.class
+br\com\javaproject\todolist\task\TaskModel.class
+br\com\javaproject\todolist\user\UserController.class
+br\com\javaproject\todolist\utilis\Utils.class
+br\com\javaproject\todolist\user\IUserRepository.class
+br\com\javaproject\todolist\task\TaskController.class
+br\com\javaproject\todolist\filter\FilterTaskAuth.class
+br\com\javaproject\todolist\TodolistApplication.class
+br\com\javaproject\todolist\user\UserModel.class
+br\com\javaproject\todolist\task\ITaskRepository.class
