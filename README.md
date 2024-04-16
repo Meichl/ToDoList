@@ -8,7 +8,11 @@ Este projeto é uma aplicação de lista de tarefas simples desenvolvida em Java
 Permite aos usuários criar, visualizar, atualizar e excluir tarefas de forma fácil e intuitiva.
 
 -Funcionalidades Principais
+
 -Adicionar novas tarefas com descrição e prazo
+
 -Marcar tarefas como concluídas
+
 -Editar detalhes das tarefas existentes
+
 -Excluir tarefas da lista
